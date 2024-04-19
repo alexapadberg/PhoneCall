@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Phone Call</string>
+    <string name="phoneNum">Phone Number: </string>
+    <string name="makeCall"> Make Call</string>
+    <string name="hint">Enter number</string>
+    <string name="permission_request_title">Permission Request</string>
+    <string name="permission_request_msg">This applications needs permission to make phone calls. Do you want to change the permission and retry? </string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="permission_denied_title"> Permission Denied </string>
+    <string name="permission_denied_msg">This permission has been denied. Cannot complete phone call.</string>
+    <string name="ok"> OK </string>
+</resources>
